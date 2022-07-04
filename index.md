@@ -1,5 +1,3 @@
-## DBF upskill week. Team 7 report
-
 Here Ram and Aleksei will show their results regarding **Real-time collaboration challenge**.
 
 ### Monday. 4th July
