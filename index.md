@@ -10,8 +10,7 @@ Our [Github repo](https://github.com/alekseikondratenko/Collaborative-drawing)
 
 The results of the 1st day:
 
-![Day 1 screen](/alekseikondratenko.github.io
-/assets/Day1.png)
+![Day 1 screen](/alekseikondratenko.github.io/assets/Day1.png)
 
 
 
