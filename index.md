@@ -10,5 +10,8 @@ Our [Github repo](https://github.com/alekseikondratenko/Collaborative-drawing)
 
 The results of the 1st day:
 
+![Day 1 screen](/alekseikondratenko.github.io
+/assets/Screenshot 2022-07-04 at 21.40.13.png.png)
+
 
 
