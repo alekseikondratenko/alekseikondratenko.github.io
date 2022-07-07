@@ -21,5 +21,9 @@ We connected three.js to socket.io and going to experiment with it tomorrow.
 
 We experimented with three.js and socket.io. It works. We got a cube that can be moved by the user in one window and the results can be visible in all other. And vice versa. Tomorrow we plan to make kind of a little game out of it.
 
+### Thursday. 7th July
+
+The game is done and working locally. Tomorrow we will deploy it to Heroku.
+
 
 
