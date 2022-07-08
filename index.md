@@ -25,11 +25,11 @@ We made our objects connected for each client in terms of their position, scale 
 
 ![Day 1 screen](Day3.png)
 
-### Thursday. 7th July
+### Step 4
 
 We added a chat to our game and deployed it to Heroku.
 
-![Day 1 screen](Day3.png)
+![Day 1 screen](Day4.png)
 
 
 
