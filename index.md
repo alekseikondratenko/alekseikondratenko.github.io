@@ -1,4 +1,4 @@
-Here Ram and Aleksei will show their results regarding **Real-time collaboration challenge.**
+Here Ram and Aleksei are showing their results regarding [Real-time collaboration challenge](https://djcldy.github.io/DBF-Creative-Coding/www/challenges/rtc/index.html).
 
 Our [Github repo](https://github.com/alekseikondratenko/Collaborative-drawing)
 
