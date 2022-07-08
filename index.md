@@ -1,12 +1,12 @@
 Here Ram and Aleksei are showing their results regarding [Real-time collaboration challenge](https://djcldy.github.io/DBF-Creative-Coding/www/challenges/rtc/index.html).
 
-Our [Github repo](https://github.com/alekseikondratenko/Collaborative-drawing)
+Our [Github repo](https://github.com/alekseikondratenko/Collaborative-drawing). Even though it is Aleksei's repo, we worked on it together, just had some problems of pushing the code from other's user account.
 
 You can start playing [here](https://r200dollars.herokuapp.com/). **Please navigate to 'instructions and limitations' before the start of the game.**
 
 ## Project idea
 
-The AEC industry has a lack of development, digitalization, and collaboration. Even though recent BIM developments allowed users to exchange models and data, it is still far from real-time collaboration. Using videogames terminology, we would like to change how people design buildings from step-based strategy (like XCOM) to real-time strategy (RTS, like StarCraft). Our project is the first step towards this goal. Here, you can collaboratively move objects in space, change their scale, rotate them, and create new ones also having the opportunity to chat. Even though, it is a raw prototype, we believe it makes clear an idea of real-time collaboration and its value during the building’s design stage.
+The AEC industry has a lack of development, digitalization, and collaboration. Even though recent BIM developments allowed users to exchange models and data, it is still far from real-time collaboration. Using videogames terminology, we would like to change how people design buildings from step-based strategy (like XCOM) to real-time strategy (RTS, like StarCraft). Our project is the first step towards this goal. Here, you can collaboratively move objects in space, change their scale, rotate them, and create new ones also having the opportunity to chat. In our game you can make columns and beams out of simple cubes and place them on top of each other creating frames and other structures. Even though, it is a raw prototype, we believe it makes clear an idea of real-time collaboration and its value during the building’s design stage. 
 
 ## Instructions and limitations
 
