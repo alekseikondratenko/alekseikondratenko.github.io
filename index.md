@@ -15,7 +15,9 @@ The results of the step 1 was the real-time updated canvas taken from one of the
 
 ### Step 2
 
-We conn
+We connected three.js canvas to the initial prototype and made it work for all the clients using socket.io
+
+![Day 1 screen](Day1.5.png)
 
 ### Wednesday. 6th July
 
