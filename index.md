@@ -19,13 +19,18 @@ We connected three.js canvas to the initial prototype and made it work for all t
 
 ![Day 1 screen](Day1.5.png)
 
-### Wednesday. 6th July
+### Step 3
 
-We experimented with three.js and socket.io. It works. We got a cube that can be moved by the user in one window and the results can be visible in all other. And vice versa. Tomorrow we plan to make kind of a little game out of it.
+We made our objects connected for each client in terms of their position, scale and shape. Also, it is possible to add additional cube pressing a button on a keybord. In addition, we added 'controls' to help user to play our game.
+
+![Day 1 screen](Day3.png)
 
 ### Thursday. 7th July
 
-The game is done and working locally. Tomorrow we will deploy it to Heroku.
+We added a chat to our game and deployed it to Heroku.
+
+![Day 1 screen](Day3.png)
+
 
 
 
